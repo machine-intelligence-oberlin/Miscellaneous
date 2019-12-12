@@ -13,13 +13,13 @@ few shot learning. <br/>
 Begin working on the RoastMe project. <br/>
 Collect data for FossilFinder. <br/>
 
-2. __Ben Yost__
+2. __Ben Yost__ <br/>
 
-3. __William Knowles-Kellett__
+3. __William Knowles-Kellett__ <br/>
 
-4. __Sam Fertig__
+4. __Sam Fertig__ <br/>
 
-5. __Jackson Wu__
+5. __Jackson Wu__ <br/>
 Begin working and collecting data for the SignatureClassification project. <br/>
 ???
 
